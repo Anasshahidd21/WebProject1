@@ -1,0 +1,129 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	// font-family: 'Montserrat', sans-serif;
+}
+
+.first{
+	
+background-color: #d34848;
+}
+
+
+a{
+	font-weight: 500;
+
+}
+
+.first .navbar .logo{
+	font-size: 2.3rem;
+	color: #fff;
+	font-weight: 600;
+
+}
+
+.navbar{
+	padding-left: 0;
+}
+
+
+.row .col img{
+	width: 100%;
+	opacity: 0.9;
+
+}
+
+.row .col img:hover{
+	width: 100%;
+	opacity: 1.0;
+
+}
+.collapse ul li{
+	font-family: 'Open Sans', sans-serif;
+	padding-right: 2.5rem;
+}
+
+.row h2{
+	font-weight: 800;
+	color: white;
+	line-height: 1.5;
+	font-size: 3.0rem;
+	margin-top: 10%;
+
+}
+
+.row .col button{
+	margin-left: 2%;
+	margin-top:6%;
+	margin-bottom:6%;
+	font-size: 1.5rem;
+}
+
+.for-button{
+	margin-left: 15%;
+}
+
+.container-fluid{
+	padding:1% 2%;
+}
+
+
+.second{
+	text-align: center;
+	margin-top: 5%;
+	padding-top: 1rem;
+}
+
+.second h3{
+	font-family: 'Open Sans';
+	font-weight: 700;
+}
+
+.second p{
+	padding: 2%;
+	color: grey;
+}
+
+.second i{
+	margin-bottom: 2%;
+	color: #d34848;
+}
+
+
+
+/*section 3*/
+
+
+.footer{
+	margin-top: 60px;
+	height: 100px;
+	background-color: #d34848;
+}
+
+.align{
+	
+text-align: center;
+
+
+	}
+
+.align i{
+	padding: 4px;
+	margin-top: 45px;
+	padding-top: 0px;
+}
+
+
+.fab:hover{
+	color: #fff;
+}
+.fa-facebook-square:hover{
+	color: #fff;
+}
+
+.fa-instagram:hover{
+	color: #fff;
+}
+
+.fa-snapchat-square{
+	color: #
+}
